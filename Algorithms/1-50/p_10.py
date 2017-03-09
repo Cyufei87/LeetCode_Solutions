@@ -1,4 +1,5 @@
 # Regular Expression Matching
+# reference: https://discuss.leetcode.com/topic/57663/python-dp-solution/4
 class Solution(object):
     def isMatch(self, s, p):
         """
